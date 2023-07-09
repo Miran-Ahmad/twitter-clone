@@ -6,11 +6,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      {/* Sidebar */}
       <Sidebar />
-      {/* Feed */}
       <Feed />
-      {/* Widgets */}
       <Widgets />
     </div>
   );

@@ -19,12 +19,6 @@ function Feed() {
       <Post />
       <Post />
       {/* Posts */}
-      {/* Posts */}
-      {/* Posts */}
-      {/* Posts */}
-      {/* Posts */}
-      {/* Posts */}
-      {/* Posts */}
     </div>
   )
 }
